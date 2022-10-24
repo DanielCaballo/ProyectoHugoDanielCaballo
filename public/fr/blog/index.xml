@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Blist Multilingual Theme</title>
+    <link>https://blist.vercel.app/fr/blog/</link>
+    <description>Recent content in Blog on Blist Multilingual Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Processus de chargement d&#39;une page Web</title>
+      <link>https://blist.vercel.app/fr/blog/cargapagweb/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/fr/blog/cargapagweb/</guid>
+      <description>Comment se déroule le processus de chargement ?Eh bien, comme ceci : La première chose est que le client (vous) Entrez le nom de la page Web.
+Ensuite, Votre ordinateur envoie la demande à votre routeur.
+Votre routeur envoie une requête au serveur DNS :
+Le nom que vous mettez n&amp;rsquo;est pas celui dont vous avez besoin. Il a besoin de l&amp;rsquo;adresse IP qui est échangée par DNS. Le DNS Trouvez le serveur auquel vous souhaitez vous connecter.</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://blist.vercel.app/fr/blog/repositoriogit/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/fr/blog/repositoriogit/</guid>
+      <description>référentiel Github Créez un nouveau dépôt et liez-le au dépôt local Nous accédons à github avec notre nom d&amp;rsquo;utilisateur et notre mot de passe Dans notre compte, nous créons un référentiel À ce moment, la page nous montrera une série de commandes qui doivent être exécutées localement. Les gestes sont : Nous allons en local dans le répertoire où se trouve notre projet Nous exécutons git init # cette commande initialise notre répertoire en tant que projet git.</description>
+    </item>
+    
+    <item>
+      <title>Installation d&#39;Hugo</title>
+      <link>https://blist.vercel.app/fr/blog/instalacionhugo/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/fr/blog/instalacionhugo/</guid>
+      <description>La première chose est hugoHugo est le générateur de sites statiques open source le plus populaire, grâce à sa rapidité et sa flexibilité. Cela rend la création de sites Web plus amusante.
+Installation HugoLa première chose que vous devez faire est de télécharger l&amp;rsquo;exécutable Hugo depuis :
+https://gohugo.io/categories/releases Nous choisirons le fichier dont nous avons besoin et nous le téléchargerons dans le format que nous aimons le plus, Il peut être en zip, rar, etc.</description>
+    </item>
+    
+    <item>
+      <title>Comment faire un graphique</title>
+      <link>https://blist.vercel.app/fr/blog/mermaids/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/fr/blog/mermaids/</guid>
+      <description>Sequence diagram !!&amp;mdash; sequenceDiagram participant Alice participant Bob Alice-&amp;raquo;John: Hello John, how are you? loop Healthcheck John-&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts prevail&amp;hellip; John&amp;ndash;&amp;gt;Alice: Great! John-&amp;gt;Bob: How about you? Bob&amp;ndash;&amp;gt;John: Jolly good! &amp;mdash;!!
+Gantt diagram !!&amp;mdash; gantt dateFormat YYYY-MM-DD title Adding GANTT diagram to mermaid excludes weekdays 2014-01-10
+section A section Completed task :done, des1, 2014-01-06,2014-01-08 Active task :active, des2, 2014-01-09, 3d Future task : des3, after des2, 5d Future task2 : des4, after des3, 5d Gantt diagram &amp;mdash;!</description>
+    </item>
+    
+  </channel>
+</rss>

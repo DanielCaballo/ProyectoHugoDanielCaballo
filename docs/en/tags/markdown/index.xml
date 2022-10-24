@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Blist Multilingual Theme</title>
+    <link>https://blist.vercel.app/en/tags/markdown/</link>
+    <description>Recent content in markdown on Blist Multilingual Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Hugo</title>
+      <link>https://blist.vercel.app/en/blog/instalacionhugo/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/blog/instalacionhugo/</guid>
+      <description>The first thing is hugoHugo is the most popular open source static site generator, thanks to its speed and flexibility. It makes website building more fun.
+Hugo InstallationThe first thing you have to do is download the Hugo executable from:
+https://gohugo.io/categories/releases We will choose the file that we need and we will download it in the format that we like the most, It can be in zip, rar, etc.</description>
+    </item>
+    
+    <item>
+      <title>how to make a chart</title>
+      <link>https://blist.vercel.app/en/blog/mermaids/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/blog/mermaids/</guid>
+      <description>Diagram Types Flowchart
+graph TD; A&amp;ndash;&amp;gt;B; A&amp;ndash;&amp;gt;C; B&amp;ndash;&amp;gt;D; C&amp;ndash;&amp;gt;D;
+Sequence diagram
+sequenceDiagram participant Alice participant Bob Alice-&amp;raquo;John: Hello John, how are you? loop Healthcheck John-&amp;raquo;John: Fight against hypochondria end Note right of John: Rational thoughts prevail! John&amp;ndash;&amp;raquo;Alice: Great! John-&amp;raquo;Bob: How about you? Bob&amp;ndash;&amp;raquo;John: Jolly good! Sequence diagram
+Gantt diagram
+gantt dateFormat YYYY-MM-DD title Adding GANTT diagram to mermaid excludes weekdays 2014-01-10
+section A section Completed task :done, des1, 2014-01-06,2014-01-08 Active task :active, des2, 2014-01-09, 3d Future task : des3, after des2, 5d Future task2 : des4, after des3, 5d Gantt diagram</description>
+    </item>
+    
+  </channel>
+</rss>

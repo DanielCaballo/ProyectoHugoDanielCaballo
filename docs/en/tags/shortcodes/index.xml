@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on Blist Multilingual Theme</title>
+    <link>https://blist.vercel.app/en/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on Blist Multilingual Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/en/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>https://blist.vercel.app/en/blog/repositoriogit/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/en/blog/repositoriogit/</guid>
+      <description>github repository Create a new repository and link it to the local one We access github with our username and password In our account we create a repository At this time, the page will show us a series of commands that must be executed locally. The actions are: We go to local to the directory where our project is We execute git init # this command initializes our directory as a git project.</description>
+    </item>
+    
+  </channel>
+</rss>

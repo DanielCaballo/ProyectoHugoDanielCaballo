@@ -1,7 +1,6 @@
 {
   "htmlElements": {
     "tags": [
-      "--",
       "a",
       "article",
       "blockquote",
@@ -55,11 +54,11 @@
       "thead",
       "title",
       "tr",
-      "ul",
-      "|--"
+      "ul"
     ],
     "classes": [
       "absolute",
+      "active",
       "bg-blue-100",
       "bg-gray-100",
       "bg-white",
@@ -81,6 +80,7 @@
       "dark:text-gray-600",
       "dark:text-gray-800",
       "dark:text-white",
+      "disabled",
       "emojify",
       "flex",
       "flex-1",
@@ -160,6 +160,10 @@
       "p-12",
       "p-2",
       "p-6",
+      "page-item",
+      "page-link",
+      "pagination",
+      "pagination-default",
       "pb-6",
       "place-items-center",
       "prose",
