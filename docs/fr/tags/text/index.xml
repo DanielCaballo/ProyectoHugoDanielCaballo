@@ -1,21 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>text on Blist Multilingual Theme</title>
-    <link>https://blist.vercel.app/fr/tags/text/</link>
-    <description>Recent content in text on Blist Multilingual Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/fr/tags/text/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Installation d&#39;Hugo</title>
-      <link>https://blist.vercel.app/fr/blog/instalacionhugo/</link>
-      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blist.vercel.app/fr/blog/instalacionhugo/</guid>
-      <description>La première chose est hugoHugo est le générateur de sites statiques open source le plus populaire, grâce à sa rapidité et sa flexibilité. Cela rend la création de sites Web plus amusante.
-Installation HugoLa première chose que vous devez faire est de télécharger l&amp;rsquo;exécutable Hugo depuis :
-https://gohugo.io/categories/releases Nous choisirons le fichier dont nous avons besoin et nous le téléchargerons dans le format que nous aimons le plus, Il peut être en zip, rar, etc.</description>
-    </item>
-    
-  </channel>
-</rss>

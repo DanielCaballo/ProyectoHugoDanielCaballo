@@ -1,20 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Blist Multilingual Theme</title>
-    <link>https://blist.vercel.app/en/page/</link>
-    <description>Recent content in Pages on Blist Multilingual Theme</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/en/page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Acerca De mi</title>
-      <link>https://blist.vercel.app/en/page/about/</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blist.vercel.app/en/page/about/</guid>
-      <description>My name is Daniel Caballo Original from ARAGON my children, I love to travel and do random things. I leave you with some small links about my community, which is the best in the universe.
-https://www.huesca.es/iniciohttps://www.zaragoza.es/sede/https://sede.teruel.es/portal/</description>
-    </item>
-    
-  </channel>
-</rss>
