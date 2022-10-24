@@ -7,9 +7,10 @@ keywords: ["about-us", "about-hugo", "contact"]
 type: AcercaDeMi
 ---
 
-My name is Daniel Caballo Original from ****ARAGON**** my children, I love to travel and do random things. I leave you with some small links about my community, which is the best in the universe.
+Je m'appelle Daniel Caballo Originaire de ****ARAGON**** mes enfants, j'adore voyager et faire des choses au hasard.Je vous laisse avec quelques petits liens sur ma communauté, qui est la meilleure de l'univers.
 
 - https://www.huesca.es/inicio
 - https://www.zaragoza.es/sede/
 - https://sede.teruel.es/portal/
+
 

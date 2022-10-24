@@ -1,6 +1,6 @@
 ---
-author: Katheryn Fox
-title: Home of Katheryn Fox
-date: 2021-07-15
+author: Daniel Caballo
+title: Principal De la pagina de Daniel
+date: 2022-10-22
 ---
 

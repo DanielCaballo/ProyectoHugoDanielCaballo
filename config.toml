@@ -14,8 +14,8 @@ DefaultContentLanguageInSubdir = true
     [languages.es.params]
       introTitle = "Hola! Soy Daniel Caballo"
       introSubtitle = "Naci en el 1996 y estudie daw en los enlaces"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      introPhoto = "/images/picture.jpg"
+      logo = "/images/brujas.png"
     [[languages.es.menu.main]]
         name = "Blog"
         url = "blog"
@@ -32,8 +32,8 @@ DefaultContentLanguageInSubdir = true
         weight = 3
 
     [[languages.es.menu.main]]
-        name = "Top Ardiente"
-        url = "/en/blog/emoji-support/"
+        name = "Top Ardiente!"
+        url = "/es/blog/instalacionHugo"
         weight = 4
 
   [languages.en]
@@ -43,8 +43,8 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Daniel Caballo"
       introSubtitle = "I was born in 1996 and studied daw in the links"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      introPhoto = "/images/picture.jpg"
+      logo = "/images/brujas.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -61,8 +61,8 @@ DefaultContentLanguageInSubdir = true
         weight = 3
 
     [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
+        name = "Top Post!"
+        url = "/en/blog/instalacionHugo/"
         weight = 4
 
   [languages.de]
@@ -74,8 +74,8 @@ DefaultContentLanguageInSubdir = true
     [languages.de.params]
       introTitle = "Hallo, ich bin Daniel Caballo"
       introSubtitle = "Ich bin 1996 geboren und habe Daw in den Links studiert"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo-de.png"
+      introPhoto = "/images/picture.jpg"
+      logo = "/images/brujas.png"
     [[languages.de.menu.main]]
         name = "Blog"
         url = "blog"
@@ -90,6 +90,11 @@ DefaultContentLanguageInSubdir = true
         name = "Tags"
         url = "tags"
         weight = 3
+
+        [[languages.de.menu.main]]
+        name = "Meilleur poste!"
+        url = "/de/blog/instalacionHugo/"
+        weight = 4
         
   [languages.fr]
     contentDir = "content/fr" #French
@@ -98,8 +103,8 @@ DefaultContentLanguageInSubdir = true
     [languages.fr.params]
       introTitle = "Salut! Je suis Daniel Caballo"
       introSubtitle = "Je suis né en 1996 et j'ai étudié daw dans les liens"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      introPhoto = "/images/picture.jpg"
+      logo = "/images/brujas.png"
     [[languages.fr.menu.main]]
         name = "Blog"
         url = "blog"
@@ -114,6 +119,11 @@ DefaultContentLanguageInSubdir = true
         name = "Tags"
         url = "tags"
         weight = 3
+
+    [[languages.fr.menu.main]]
+        name = "Oberster Beitrag!"
+        url = "/fr/blog/instalacionHugo/"
+        weight = 4
         
 
 [params]
@@ -170,3 +180,4 @@ DefaultContentLanguageInSubdir = true
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+  
