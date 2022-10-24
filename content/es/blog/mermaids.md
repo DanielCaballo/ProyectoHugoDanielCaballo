@@ -12,6 +12,10 @@ math: true
 <p>
 <span class="nowrap"><span class="emojify">🙉</span>
 <span class="nowrap"><span class="emojify">🙉</span>
+
+**Antes de hacerlo cuidado lee esto anda**  <br>
+https://peterlavalle.github.io/post/gohugo-mermaid/
+
 <span class="nowrap"><span class="emojify">🙉</span>
 <span class="nowrap"><span class="emojify">🙉</span>
 </p>
