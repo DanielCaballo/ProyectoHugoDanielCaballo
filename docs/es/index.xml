@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blist Multilingual Theme</title>
+    <link>https://blist.vercel.app/es/</link>
+    <description>Recent content on Blist Multilingual Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como se hace un Grafico</title>
+      <link>https://blist.vercel.app/es/blog/mermaids/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/es/blog/mermaids/</guid>
+      <description>🙉🙉Antes de hacerlo cuidado lee esto anda https://peterlavalle.github.io/post/gohugo-mermaid/🙉 🙉
+Diagram Types
+graph LR;A[Hard edge] --&gt;|Link text| B(Round edge)B --&gt; C{Decision}C --&gt;|One| D[Result one]C --&gt;|Two| E[Result two]Sequence diagram
+sequenceDiagramparticipant Aliceparticipant BobAlice-&gt;&gt;John: Hello John, how are you?loop HealthcheckJohn-&gt;John: Fight against hypochondriaendNote right of John: Rational thoughts prevail...John--&gt;Alice: Great!John-&gt;Bob: How about you?Bob--&gt;John: Jolly good!Gantt diagram</description>
+    </item>
+    
+    <item>
+      <title>Proceso de carga de una pagina web</title>
+      <link>https://blist.vercel.app/es/blog/cargapagweb/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/es/blog/cargapagweb/</guid>
+      <description>Como se hace el Proceso de carga?Pues asi : Lo primero es que el Cliente (tu) Introduces el nombre de la página web.
+Entonces Tu pc manda la solicitud a tu router.
+Tu router manda una peticion al Servidor dns:
+El nombre que tu pones no es el que necesita. El necesita la direccion ip eso lo intercambia el DNS. El dns Encuentra el servidor al que te quieres conectar.</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://blist.vercel.app/es/blog/repositoriogit/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/es/blog/repositoriogit/</guid>
+      <description>Repositorio en github Crear un repositorio nuevo y ligarlo al local Accedemos a github con nuestro usuario y password En nuestra cuenta creamos un repositorio En este momento nos mostrará la página una serie de comandos que hay que ejecutar en local. Las acciones son: Vamos a local al directorio donde esta nuestro proyevto Ejecutamos git init # este comando inicializa nuestro directorio como proyecto de git . Habrá creado un directorio llamado .</description>
+    </item>
+    
+    <item>
+      <title>Instalacion De Hugo</title>
+      <link>https://blist.vercel.app/es/blog/instalacionhugo/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/es/blog/instalacionhugo/</guid>
+      <description>Lo primero que es hugoHugo es un generador de sitios estaticos de codigo abierto mas populares , gracias a su velocidad y flexibilidad. Hace que la construcion de sitios web sea mas divertido.
+Instalacion HugoLo primero hay que bajarse el ejecutable de Hugo desde :
+https://gohugo.io/categories/releases Escogeremos el archivo que necesitemos y lo descargaremos en el formato que mas nos guste , Puede ser en zip , rar , etc</description>
+    </item>
+    
+    <item>
+      <title>Acerca De mi</title>
+      <link>https://blist.vercel.app/es/page/about/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/es/page/about/</guid>
+      <description>Me llamo Daniel Caballo Original de ARAGON mis niños , Me encanta viajar y hacer cositas random os dejo unos pequeños enlaces sobre mi comunidad que es la mejor del universo.
+https://www.huesca.es/iniciohttps://www.zaragoza.es/sede/https://sede.teruel.es/portal/</description>
+    </item>
+    
+  </channel>
+</rss>

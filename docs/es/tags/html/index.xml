@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Blist Multilingual Theme</title>
+    <link>https://blist.vercel.app/es/tags/html/</link>
+    <description>Recent content in html on Blist Multilingual Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/es/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como se hace un Grafico</title>
+      <link>https://blist.vercel.app/es/blog/mermaids/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blist.vercel.app/es/blog/mermaids/</guid>
+      <description>🙉🙉Antes de hacerlo cuidado lee esto anda https://peterlavalle.github.io/post/gohugo-mermaid/🙉 🙉
+Diagram Types
+graph LR;A[Hard edge] --&gt;|Link text| B(Round edge)B --&gt; C{Decision}C --&gt;|One| D[Result one]C --&gt;|Two| E[Result two]Sequence diagram
+sequenceDiagramparticipant Aliceparticipant BobAlice-&gt;&gt;John: Hello John, how are you?loop HealthcheckJohn-&gt;John: Fight against hypochondriaendNote right of John: Rational thoughts prevail...John--&gt;Alice: Great!John-&gt;Bob: How about you?Bob--&gt;John: Jolly good!Gantt diagram</description>
+    </item>
+    
+  </channel>
+</rss>
