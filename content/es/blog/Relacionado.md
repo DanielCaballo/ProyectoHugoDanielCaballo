@@ -18,9 +18,9 @@ Vuespress
 
 `````
 
-<h1> EL PUZZLE </h1>
+
 | Otros    | Frameworks| Lenguaje de Prog | HojasStilos |
-|:--------:|:----------:|:----------------:|:-----------:|
+|--------|----------|----------------|-----------|
 |Babel     |WebPack     |     PHP        |    CSS        |
 |Linux     |Prototype   | JavaScript     | Bootstrap     |
 |Node JS   |Frameworks de php|Angular    |    hugo       |
